@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CCP DeepSeek - The Future of Free Crypto</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #1a1a1a;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+        }
+        h1 {
+            color: #ff0000;
+            text-transform: uppercase;
+        }
+        p {
+            font-size: 18px;
+        }
+        .btn {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            background: #ff0000;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+        .image-section {
+            margin: 20px 0;
+        }
+        .image-section img {
+            max-width: 100%;
+            border-radius: 10px;
+            margin-top: 10px;
+        }
+        .whitepaper, .roadmap, .tokenomics {
+            background: #222;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+        .footer {
+            margin-top: 30px;
+            font-size: 14px;
+            color: #bbb;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>What is CCP DeepSeek?</h1>
+        <p>A memecoin blending AI, blockchain, and the fight between control and free speech. In a world of censorship, crypto stands for financial and digital freedom.</p>
+        
+        <div class="image-section">
+            <img src="https://example.com/dictatorship-image1.jpg" alt="Dictatorship Symbolism">
+            <img src="https://example.com/dictatorship-image2.jpg" alt="Surveillance Society">
+            <img src="https://example.com/dictatorship-image3.jpg" alt="Freedom vs Control">
+        </div>
+        
+        <a href="#" class="btn">Join the Community</a>
+        
+        <div class="whitepaper">
+            <h2>Whitepaper</h2>
+            <p>CCP DeepSeek aims to expose the dangers of centralized control while empowering users with a truly decentralized currency.</p>
+            <a href="#" class="btn">Read More</a>
+        </div>
+        
+        <div class="roadmap">
+            <h2>Roadmap</h2>
+            <p>Phase 1: Launch 🚀 | Phase 2: Community Growth 📈 | Phase 3: Exchange Listings 💰 | Phase 4: Decentralization & Governance 🔥</p>
+        </div>
+        
+        <div class="tokenomics">
+            <h2>Tokenomics</h2>
+            <p>Total Supply: 1,000,000,000 CCPD | 50% Liquidity | 30% Community | 10% Development | 10% Marketing</p>
+        </div>
+        
+        <div class="footer">
+            <p>🔗 Share this link: <a href="https://example.com/what-is-ccp" style="color: #ffcc00;">what is ccp</a></p>
+        </div>
+    </div>
+</body>
+</html>
